@@ -1,0 +1,11 @@
+*Hotel Management Stsyem Project in Python Tkinter With Mysql Database Connectivity*
+
+Software requirement:
+Python letest version
+IDE- Visual Studio Code
+Database - MYSQL Database
+
+Python Module You need to install:
+pip install pillow
+pip install mysql-connector-python
+
